@@ -1,6 +1,6 @@
 # RENAT IBRAGIMOV
 
-## Backend Python Developer
+## Software Engineer
 
 With over 2 years of commercial experience in Backend Python Development, I specialize in building scalable, high-performance systems. My focus is on API integration, database optimization, and asynchronous programming. I have worked extensively with frameworks like **Flask** and **FastAPI**, and I leverage **Docker** to manage microservices for efficient deployment. 
 
@@ -47,6 +47,7 @@ Before transitioning to software development, I spent **12 years as a seafarer**
 
 ## 📫 Let's Connect
 
+- [Email](renatibragimov26@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/renat-ibragimov-dev/) 
 - [Telegram](https://t.me/renat_ibragimov) 
 
