@@ -1,7 +1,12 @@
 # RENAT IBRAGIMOV
+<div align="left">
+  <a href="https://www.linkedin.com/in/renat-ibragimov-dev/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://t.me/renat_ibragimov" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
+  <a href="mailto:renatibragimov26@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://discord.com/users/o_loskut" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+</div>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=renat-ibragimov)](https://github.com/renat-ibragimov/github-readme-stats)
-
+###
 ## Software Engineer
 
 With over 2 years of commercial experience in Backend Python Development, I specialize in building scalable, high-performance systems. My focus is on API integration, database optimization, and asynchronous programming. I have worked extensively with frameworks like **Flask** and **FastAPI**, and I leverage **Docker** to manage microservices for efficient deployment. 
@@ -44,12 +49,3 @@ In addition to backend development, I have experience integrating AI technologie
 ## 🎓 Education & Background
 
 Before transitioning to software development, I spent **12 years as a seafarer**, including **9 years as an officer on tankers** with major international companies. This experience has been invaluable, enhancing my leadership, problem-solving, and communication skills, which continue to benefit my development career.
-
----
-
-## 📫 Let's Connect
-
-- [Email](renatibragimov26@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/renat-ibragimov-dev/) 
-- [Telegram](https://t.me/renat_ibragimov) 
-
