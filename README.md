@@ -1,5 +1,7 @@
 # RENAT IBRAGIMOV
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=renat-ibragimov)](https://github.com/renat-ibragimov/github-readme-stats)
+
 ## Software Engineer
 
 With over 2 years of commercial experience in Backend Python Development, I specialize in building scalable, high-performance systems. My focus is on API integration, database optimization, and asynchronous programming. I have worked extensively with frameworks like **Flask** and **FastAPI**, and I leverage **Docker** to manage microservices for efficient deployment. 
