@@ -1,16 +1,52 @@
-## Hi there 👋
+# RENAT IBRAGIMOV
 
-<!--
-**renat-ibragimov/renat-ibragimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Python Developer
 
-Here are some ideas to get you started:
+With over 2 years of commercial experience in Backend Python Development, I specialize in building scalable, high-performance systems. My focus is on API integration, database optimization, and asynchronous programming. I have worked extensively with frameworks like **Flask** and **FastAPI**, and I leverage **Docker** to manage microservices for efficient deployment. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to backend development, I have experience integrating AI technologies such as **OpenAI** and **Google services** into backend systems to enable machine learning and natural language processing.
+
+## 🔑 Key Skills & Technologies
+
+- **Backend Development**: Python, OOP, Flask, FastAPI, Django, Asynchronous Programming
+- **Databases**: PostgreSQL, Redis, SQL, SQLAlchemy
+- **Messaging & Task Queues**: Celery, RabbitMQ
+- **Testing**: Unit Testing, pytest, Postman, TDD
+- **DevOps & Tools**: Docker, Git, Linux
+- **Project Management**: Scrum, Agile, Jira
+- **Soft Skills**: Problem Solving, Team Management, Communication, Stress Handling
+
+## 🛠️ Technical Skills
+
+- **Python**: Building and optimizing backend systems with a focus on API integration and database performance.
+- **OOP & Design Patterns**: Applying solid principles (SOLID, Singleton, Factory, Observer) to create maintainable, scalable systems.
+- **Asynchronous Programming**: Expertise in creating real-time, scalable systems using async technologies.
+- **AI Integration**: Integrating **OpenAI** and **Google** services for machine learning and NLP features.
+- **Version Control**: Proficient in **Git** for managing code versions and collaborating with teams.
+
+## 🌱 I'm passionate about delivering solutions that meet both technical and business needs while maintaining high code quality and performance optimization.
+
+---
+
+## 👨‍💻 Experience
+
+### Backend Python Developer | *GT-Protocol*
+- Responsible for the development and maintenance of backend solutions for cryptocurrency trading platforms, focusing on high-performance systems and AI-driven automation. 
+- Developed scalable microservice architectures and contributed to building a platform for automated trading strategies across multiple cryptocurrency exchanges.
+- Integrated APIs from major cryptocurrency exchanges to enable real-time trading, order management, and balance tracking. 
+- Developed secure solutions for handling transaction data and payment systems, ensuring efficient deposit/withdrawal operations.
+- Worked with large datasets in PostgreSQL, optimizing performance for high-frequency trading (HFT) environments. Focused on secure data handling and encryption to protect sensitive financial information.
+  
+---
+
+## 🎓 Education & Background
+
+Before transitioning to software development, I spent **12 years as a seafarer**, including **9 years as an officer on tankers** with major international companies. This experience has been invaluable, enhancing my leadership, problem-solving, and communication skills, which continue to benefit my development career.
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/renat-ibragimov-dev/) 
+- [Telegram](https://t.me/renat_ibragimov) 
+
